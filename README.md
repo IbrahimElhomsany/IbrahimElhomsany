@@ -1,6 +1,6 @@
 # Hi, I'm Ibrahim 👋
 
-**Software Developer · Full-Stack Developer · AI Enthusiast** in Doha, Qatar 🇶🇦
+**Software Developer · Full-Stack Developer · AI Enthusiast** in Doha, Qatar 🇶🇦\
 BSc Information Systems, **University of Doha for Science & Technology (UDST)**, May 2026
 
 I build web applications end to end, from Python and PostgreSQL backends to React and JavaScript frontends, and I add AI where it solves a real problem. In my AI work the model understands the user, while prices, stock and approvals come from tested code. I back my work with tests and evaluation results, and I write down what still fails.
@@ -31,7 +31,7 @@ I build web applications end to end, from Python and PostgreSQL backends to Reac
 
 My title was IT Support, but most of my work was software development, alongside infrastructure and support.
 
-**Payment Register web application** (internal, private repository)
+**Payment Register web application** (internal, private repository)\
 Built the foundations of an internal app to move payment registration, tracking and approval into one system.
 - Designed a modular Flask backend with separate modules for users, payments, approvals, reporting and master data
 - Set up the PostgreSQL 15 data models and migrations with SQLAlchemy and Flask-Migrate
